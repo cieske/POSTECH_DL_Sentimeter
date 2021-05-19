@@ -8,3 +8,6 @@ This repository is created for store, record POSTECH DL Project - Sentimeter(Gro
 * [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882) (EMNLP'14)
 * [A multi-sentiment-resource enhanced attention network for sentiment classification](https://arxiv.org/pdf/1807.04990) (arXiv preprint arXiv:2018)
 * [Self-Explaining Structures Improve NLP Models](https://arxiv.org/pdf/2012.01786) (arXiv preprint arXiv:2020)
+
+* [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) (arXiv preprint arXiv:2016)
+* 
