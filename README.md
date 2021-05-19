@@ -10,4 +10,7 @@ This repository is created for store, record POSTECH DL Project - Sentimeter(Gro
 * [Self-Explaining Structures Improve NLP Models](https://arxiv.org/pdf/2012.01786) (arXiv preprint arXiv:2020)
 
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) (arXiv preprint arXiv:2016)
-* 
+* [Convolutional Neural Networks for Sentence Classification](https://www.aclweb.org/anthology/D14-1181) (EMNLP'14)
+* [Recurrent Neural Network for Text Classification with Multi-Task Learning](https://www.ijcai.org/Proceedings/16/Papers/408.pdf) (IJCAI'16)
+* [Feed-Forward Networks with Attention Can Solve Some Long-Term Memory Problems](https://arxiv.org/pdf/1512.08756.pdf) (arXiv preprint arXiv:2015)
+* [Recurrent Convolutional Neural Networks for Text Classification](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9745/9552) (AAAI'15)
