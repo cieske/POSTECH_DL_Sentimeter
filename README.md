@@ -4,20 +4,30 @@ This repository is created for store, record POSTECH DL Project - Sentimeter(Gro
 # For the experiments
 <img src="accuracy.png" title="New Folder">
 
-## 2.0. Baseline
+## 0. Baseline
 - `data` in [./Bert-Tutorial/data/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
-- experimented in [Bert-Tutorial/Bert-custom_linear.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom_linear.ipynb)
+- `experiment` in [./Bert-Tutorial/Bert-custom_linear.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom_linear.ipynb)
 
-## 2.1. Data Augmentation
+## 1. Data Augmentation
 - `data` in [./data/augmented/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
 - `augmentation` in [./data_augmentation](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/data_augmentation/translation_aug.ipynb)
-- `experimented with augmented data` in [./Bert-Tutorial/Bert-custom-augment.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom-augment.ipynb)
+- `experiment with augmented data` in [./Bert-Tutorial/Bert-custom-augment.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom-augment.ipynb)
 
-## 2.2. Embedding layer
+## 2. Embedding layer
+- `data` in 
+- `trial 1` in 
+- `trial 2` in 
+- `trial 3` in [./Bert-Tutorial/Bert-TEST.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-TEST.ipynb)
 
-## 2.3. Classifier
+## 3. Classifier
+- `data` in [./Bert-Tutorial/data/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
+- `trial 1` in 
+- `trial 2` in 
+- `trial 3` in [./Bert-Tutorial/Bert-TEST.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-TEST.ipynb)
 
-## 2.4. Ensemble 
+## 4. Ensemble 
+- `data` in 
+- `experiment` in 
 
 # Reference papers we read
 * [Fine-grained Sentiment Classification using BERT](https://arxiv.org/pdf/1910.03474.pdf) (AITB'19)
