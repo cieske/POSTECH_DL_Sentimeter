@@ -15,7 +15,7 @@ This repository is created for store, record POSTECH DL Project - Sentimeter(Gro
 
 ## 2. Embedding layer
 - `data` in 
-- `trial 1` in 
+- `trial 1` in [./BertCNNsenti_analysis/BertCharCNNmodel.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/BertCNNsenti_analysis/BertCharCNNmodel.ipynb)
 - `trial 2` in 
 - `trial 3` in [./Bert-Tutorial/Bert-TEST.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-TEST.ipynb)
 
