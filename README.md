@@ -1,8 +1,8 @@
 # About this repository
 This repository is created for store, record POSTECH DL Project - Sentimeter(Group 20)
 
-# For the experiments
-<img src="accuracy.png" title="New Folder">
+# To revisit the experiments
+<img src="accuracy.png" title="New Folder" width="500">
 
 ## 0. Baseline
 - `data` in [./Bert-Tutorial/data/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
