@@ -27,7 +27,7 @@ This repository is created for store, record POSTECH DL Project - Sentimeter(Gro
 
 ## 4. Ensemble 
 - `data` in 
-- `experiment` in 
+- `experiment` in [./BertCNNsenti_analysis/BertCharCNNmodel.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/BertCNNsenti_analysis/BertCharCNNmodel.ipynb)
 
 # Reference papers we read
 * [Fine-grained Sentiment Classification using BERT](https://arxiv.org/pdf/1910.03474.pdf) (AITB'19)
