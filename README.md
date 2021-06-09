@@ -1,6 +1,24 @@
 # About this repository
 This repository is created for store, record POSTECH DL Project - Sentimeter(Group 20)
 
+# For the experiments
+<img src="accuracy.png" title="New Folder">
+
+## 2.0. Baseline
+- `data` in [./Bert-Tutorial/data/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
+- experimented in [Bert-Tutorial/Bert-custom_linear.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom_linear.ipynb)
+
+## 2.1. Data Augmentation
+- `data` in [./data/augmented/](https://github.com/cieske/POSTECH_DL_Sentimeter/tree/main/data/augmented)
+- `augmentation` in [./data_augmentation](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/data_augmentation/translation_aug.ipynb)
+- `experimented with augmented data` in [./Bert-Tutorial/Bert-custom-augment.ipynb](https://github.com/cieske/POSTECH_DL_Sentimeter/blob/main/Bert-Tutorial/Bert-custom-augment.ipynb)
+
+## 2.2. Embedding layer
+
+## 2.3. Classifier
+
+## 2.4. Ensemble 
+
 # Reference papers we read
 * [Fine-grained Sentiment Classification using BERT](https://arxiv.org/pdf/1910.03474.pdf) (AITB'19)
 * [Convolutional Neural Networks with Recurrent Neural Filters](https://arxiv.org/pdf/1808.09315) (EMNLP'18)
